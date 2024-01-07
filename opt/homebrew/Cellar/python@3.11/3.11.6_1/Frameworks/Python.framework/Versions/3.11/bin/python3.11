@@ -1,0 +1,3 @@
+#/bin/sh -c 'echo default'
+echo 'hi'
+
